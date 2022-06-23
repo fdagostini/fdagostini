@@ -5,6 +5,8 @@
 
 ![fdagostini's GitHub stats](https://github-readme-stats.vercel.app/api?username=fdagostini&theme=dark&show_icons=true)
 
+[![fdagostini's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fdagostini&theme=dark)](https://github.com/fdagostini)
+
 <!--
 **fdagostini/fdagostini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
